@@ -1,0 +1,10 @@
+C:\Users\Administrator\acfun_ximei\acfun_ximei\bin\Debug\acfun_ximei.exe
+C:\Users\Administrator\acfun_ximei\acfun_ximei\bin\Debug\acfun_ximei.pdb
+C:\Users\Administrator\acfun_ximei\acfun_ximei\obj\Debug\acfun_ximei.MainForm.resources
+C:\Users\Administrator\acfun_ximei\acfun_ximei\obj\Debug\acfun_ximei.GroupDetailPage.resources
+C:\Users\Administrator\acfun_ximei\acfun_ximei\obj\Debug\acfun_ximei.ItemDetailPage.resources
+C:\Users\Administrator\acfun_ximei\acfun_ximei\obj\Debug\acfun_ximei.Properties.Resources.resources
+C:\Users\Administrator\acfun_ximei\acfun_ximei\obj\Debug\acfun_ximei.GroupItemDetailPage.resources
+C:\Users\Administrator\acfun_ximei\acfun_ximei\obj\Debug\acfun_ximei.csproj.GenerateResource.Cache
+C:\Users\Administrator\acfun_ximei\acfun_ximei\obj\Debug\acfun_ximei.exe
+C:\Users\Administrator\acfun_ximei\acfun_ximei\obj\Debug\acfun_ximei.pdb

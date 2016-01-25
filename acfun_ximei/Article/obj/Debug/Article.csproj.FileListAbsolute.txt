@@ -1,0 +1,15 @@
+C:\Users\Administrator\acfun_ximei\Article\obj\Debug\Article.login.resources
+C:\Users\Administrator\acfun_ximei\Article\obj\Debug\Article.miniBox.resources
+C:\Users\Administrator\acfun_ximei\Article\obj\Debug\Article.Properties.Resources.resources
+C:\Users\Administrator\acfun_ximei\Article\obj\Debug\Article.Splash.resources
+C:\Users\Administrator\acfun_ximei\Article\obj\Debug\Article.csproj.GenerateResource.Cache
+C:\Users\Administrator\acfun_ximei\Article\obj\Debug\Article.exe.licenses
+C:\Users\Administrator\acfun_ximei\Article\bin\Debug\Article.exe
+C:\Users\Administrator\acfun_ximei\Article\bin\Debug\Article.pdb
+C:\Users\Administrator\acfun_ximei\Article\obj\Debug\Article.exe
+C:\Users\Administrator\acfun_ximei\Article\obj\Debug\Article.pdb
+C:\Users\Administrator\acfun_ximei\Article\bin\Debug\Article.exe.config
+C:\Users\Administrator\acfun_ximei\Article\obj\Debug\Article.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\acfun_ximei\Article\obj\Debug\Article.forms.bananaThrow.resources
+C:\Users\Administrator\acfun_ximei\Article\obj\Debug\Article.forms.CommentBox.resources
+C:\Users\Administrator\acfun_ximei\Article\obj\Debug\Article.Acfun.resources

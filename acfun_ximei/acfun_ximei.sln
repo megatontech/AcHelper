@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Article", "Article\Article.csproj", "{F1018BAA-BD28-4B8C-82E0-8E7541110952}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "acfun_ximei", "acfun_ximei\acfun_ximei.csproj", "{81337482-4E30-4BE7-8029-35A2227B1536}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupAcfunClient", "SetupAcfunClient\SetupAcfunClient.vdproj", "{1FB5E192-A2A7-49F7-9700-739720A9954A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1018BAA-BD28-4B8C-82E0-8E7541110952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1018BAA-BD28-4B8C-82E0-8E7541110952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1018BAA-BD28-4B8C-82E0-8E7541110952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1018BAA-BD28-4B8C-82E0-8E7541110952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81337482-4E30-4BE7-8029-35A2227B1536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81337482-4E30-4BE7-8029-35A2227B1536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81337482-4E30-4BE7-8029-35A2227B1536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81337482-4E30-4BE7-8029-35A2227B1536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FB5E192-A2A7-49F7-9700-739720A9954A}.Debug|Any CPU.ActiveCfg = Debug
+		{1FB5E192-A2A7-49F7-9700-739720A9954A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
