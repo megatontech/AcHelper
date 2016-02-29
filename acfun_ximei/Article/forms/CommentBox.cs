@@ -62,7 +62,6 @@ namespace Article.forms
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string s = webutil.login("西方媒体", "153037");
             string s1 = webutil.comment(textBox1.Text, this.richEditControl.Text, webutil.cookiec);
             MessageBox.Show(s1);
             this.Close();

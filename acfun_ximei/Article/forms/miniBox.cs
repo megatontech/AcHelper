@@ -119,7 +119,6 @@ namespace Article
         private void BindData()
         {
             //%E8%A5%BF%E6%96%B9%E5%AA%92%E4%BD%93
-            string s = webutil.login("西方媒体", "153037");
             string s1 = webutil.checkIn(webutil.cookiec);
             this.getNewPush();
             playSound();

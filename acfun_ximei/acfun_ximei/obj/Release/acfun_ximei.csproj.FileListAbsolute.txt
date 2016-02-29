@@ -9,3 +9,15 @@ C:\Users\Administrator\acfun_ximei\acfun_ximei\obj\Release\acfun_ximei.GroupItem
 C:\Users\Administrator\acfun_ximei\acfun_ximei\obj\Release\acfun_ximei.csproj.GenerateResource.Cache
 C:\Users\Administrator\acfun_ximei\acfun_ximei\obj\Release\acfun_ximei.exe
 C:\Users\Administrator\acfun_ximei\acfun_ximei\obj\Release\acfun_ximei.pdb
+C:\Users\megat\OneDrive\AcHelper\acfun_ximei\acfun_ximei\bin\Release\acfun_ximei.exe
+C:\Users\megat\OneDrive\AcHelper\acfun_ximei\acfun_ximei\bin\Release\acfun_ximei.pdb
+C:\Users\megat\OneDrive\AcHelper\acfun_ximei\acfun_ximei\obj\Release\acfun_ximei.csprojResolveAssemblyReference.cache
+C:\Users\megat\OneDrive\AcHelper\acfun_ximei\acfun_ximei\obj\Release\acfun_ximei.MainForm.resources
+C:\Users\megat\OneDrive\AcHelper\acfun_ximei\acfun_ximei\obj\Release\acfun_ximei.GroupDetailPage.resources
+C:\Users\megat\OneDrive\AcHelper\acfun_ximei\acfun_ximei\obj\Release\acfun_ximei.ItemDetailPage.resources
+C:\Users\megat\OneDrive\AcHelper\acfun_ximei\acfun_ximei\obj\Release\acfun_ximei.Properties.Resources.resources
+C:\Users\megat\OneDrive\AcHelper\acfun_ximei\acfun_ximei\obj\Release\acfun_ximei.GroupItemDetailPage.resources
+C:\Users\megat\OneDrive\AcHelper\acfun_ximei\acfun_ximei\obj\Release\acfun_ximei.csproj.GenerateResource.Cache
+C:\Users\megat\OneDrive\AcHelper\acfun_ximei\acfun_ximei\obj\Release\acfun_ximei.exe.licenses
+C:\Users\megat\OneDrive\AcHelper\acfun_ximei\acfun_ximei\obj\Release\acfun_ximei.exe
+C:\Users\megat\OneDrive\AcHelper\acfun_ximei\acfun_ximei\obj\Release\acfun_ximei.pdb
