@@ -33,3 +33,6 @@ C:\Users\megat\OneDrive\AcHelper\acfun_ximei\Article\obj\Release\Article.Propert
 C:\Users\megat\OneDrive\AcHelper\acfun_ximei\Article\obj\Release\Article.Splash.resources
 C:\Users\megat\OneDrive\AcHelper\acfun_ximei\Article\obj\Release\Article.csproj.GenerateResource.Cache
 C:\Users\megat\OneDrive\AcHelper\acfun_ximei\Article\obj\Release\Article.exe.licenses
+C:\Users\Admin\OneDrive\AcHelper\acfun_ximei\Article\bin\Release\Article.exe.config
+C:\Users\Admin\OneDrive\AcHelper\acfun_ximei\Article\obj\Release\Article.exe
+C:\Users\Admin\OneDrive\AcHelper\acfun_ximei\Article\obj\Release\Article.pdb
