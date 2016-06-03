@@ -1,0 +1,6 @@
+{
+  "name": "Achelper",
+  "tagline": "以前写的Acfun辅助小工具，功能有沙发提示，回复提醒，离线下载及浏览，爬用户，爬评论，找删除评论，屏蔽特定人，tile风格浏览",
+  "body": "##AcHelper\r\n###Acfun辅助客户端\r\n***\r\n####开始没规划好，开发了两版，一版的功能只有刷沙发和提示功能。会在桌面角落显示一个AC娘头像，包子头上有回复和私信的数字，调用的ac网络接口查询，虽然有cookies保存但是每次登陆还是需要登陆一下刷新cookies时间。最小化时会缩到守护进程里，有提醒时会有声音提示。\r\n***\r\n####这个可以用来离线缓存ac文章区的所有投稿和用户还有其评论，并且在sqlite做过滤等操作，界面是tile样式的，目前有些功能还没做完",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
