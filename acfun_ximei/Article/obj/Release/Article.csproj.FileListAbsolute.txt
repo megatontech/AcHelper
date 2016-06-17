@@ -36,3 +36,6 @@ C:\Users\megat\OneDrive\AcHelper\acfun_ximei\Article\obj\Release\Article.exe.lic
 C:\Users\Admin\OneDrive\AcHelper\acfun_ximei\Article\bin\Release\Article.exe.config
 C:\Users\Admin\OneDrive\AcHelper\acfun_ximei\Article\obj\Release\Article.exe
 C:\Users\Admin\OneDrive\AcHelper\acfun_ximei\Article\obj\Release\Article.pdb
+C:\Projects\AcHelper\acfun_ximei\Article\bin\Release\Article.exe.config
+C:\Projects\AcHelper\acfun_ximei\Article\obj\Release\Article.exe
+C:\Projects\AcHelper\acfun_ximei\Article\obj\Release\Article.pdb
