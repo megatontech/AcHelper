@@ -1,0 +1,24 @@
+{
+  "content_scripts": [
+    {
+      "js": [ "js/main.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+    }
+  ],
+  "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+  "description": "ACHelper",
+  "icons": {
+    "128": "icon128.png",
+    "48": "icon48.png"
+  },
+  "manifest_version": 2,
+  "name": "ACHelper",
+  "page_action": {
+    "default_icon": "icon.png",
+    "default_title": "ACHelper"
+  },
+  "permissions": [ "tabs", "webRequest", "http://*/*", "https://*/*" ],
+  "short_name": "ACHelper",
+  "version": "0.1",
+  "web_accessible_resources": [ "js/jquery.js", "js/commentfilter.js", "js/pagefilter.js",  "css/helper.css",  "fonts/glyphicons-halflings-regular.ttf", "fonts/glyphicons-halflings-regular.woff" ]
+}
